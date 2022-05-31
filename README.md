@@ -1,6 +1,6 @@
 # BSc-thesis-exhibition
 ### Notes
-The complete record of my experiments for BSc thesis can be found in Lab log.md 
+The complete record of my experiments for BSc thesis can be found in Lab logs.md 
 
 Data from my experiments' results which may be useful can be found in Data.xslx
 
